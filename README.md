@@ -12,7 +12,9 @@ The problem statement is placed in `pizza.pdf` file. All data provided by Google
 `input_data` directory.
 # Results
 Full solution is in `output_data` directory.
+
 Here are the points:
+
 | Case      | Points |
 |-----------|--------|
 | example   | 15     |
